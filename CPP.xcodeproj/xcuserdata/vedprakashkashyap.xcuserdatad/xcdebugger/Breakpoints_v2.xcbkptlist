@@ -10,12 +10,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ALL/puzzle9.cpp"
-            timestampString = "583101302.157835"
+            timestampString = "583133851.696756"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "44"
             endingLineNumber = "44"
-            landmarkName = "getsoln(pair&lt;int,int&gt; current, pair&lt;int,int&gt; parent, vector&lt;pair&lt;int,int&gt;&gt; &amp;pos, vector&lt;int&gt; &amp;dir)"
+            landmarkName = "getsoln(int x, int y)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -26,28 +26,44 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ALL/puzzle9.cpp"
-            timestampString = "583101302.1582429"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "66"
-            endingLineNumber = "66"
-            landmarkName = "getsoln(pair&lt;int,int&gt; current, pair&lt;int,int&gt; parent, vector&lt;pair&lt;int,int&gt;&gt; &amp;pos, vector&lt;int&gt; &amp;dir)"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ALL/puzzle9.cpp"
-            timestampString = "583101302.158479"
+            timestampString = "583133851.697118"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "45"
             endingLineNumber = "45"
-            landmarkName = "getsoln(pair&lt;int,int&gt; current, pair&lt;int,int&gt; parent, vector&lt;pair&lt;int,int&gt;&gt; &amp;pos, vector&lt;int&gt; &amp;dir)"
+            landmarkName = "getsoln(int x, int y)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ALL/puzzle9.cpp"
+            timestampString = "583133851.69736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ALL/puzzle9.cpp"
+            timestampString = "583133851.697582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "getsoln(int x, int y)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -58,60 +74,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ALL/puzzle9.cpp"
-            timestampString = "583101302.158721"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "109"
-            endingLineNumber = "109"
-            landmarkName = "main()"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ALL/puzzle9.cpp"
-            timestampString = "583101302.15895"
+            timestampString = "583133851.6977969"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "107"
             endingLineNumber = "107"
             landmarkName = "main()"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ALL/puzzle9.cpp"
-            timestampString = "583101302.159153"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "102"
-            endingLineNumber = "102"
-            landmarkName = "main()"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ALL/puzzle9.cpp"
-            timestampString = "583101302.159353"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "57"
-            endingLineNumber = "57"
-            landmarkName = "getsoln(pair&lt;int,int&gt; current, pair&lt;int,int&gt; parent, vector&lt;pair&lt;int,int&gt;&gt; &amp;pos, vector&lt;int&gt; &amp;dir)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
